@@ -70,7 +70,11 @@
             border-bottom: 2px solid #e8491d;
             padding-bottom: 10px;
         }
-        .top-right-image {
+        h2 {
+            border-bottom: 2px solid #e8491d;
+            padding-bottom: 10px;
+            }
+            .top-right-image {
             position: absolute;
             top: 10px;
             right: 10px;
@@ -78,10 +82,6 @@
             height: auto;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-        }
-        h2 {
-            border-bottom: 2px solid #e8491d;
-            padding-bottom: 10px;
         }
     </style>
 </head>
