@@ -23,6 +23,15 @@
             min-height: 70px;
             border-bottom: #e8491d 3px solid;
         }
+        header img {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 100px; /* Adjust as needed */
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
             header a {
             color: #ffffff;
             text-decoration: none;
@@ -79,6 +88,7 @@
     <header>
         <div class="container">
             <div id="branding">
+                 <img src="path/to/your/image.jpg" alt="Profile Image">
                 <h1>Gokul Arya</h1>
                 <p>Assistant Manager in IT</p>
                  </div>
