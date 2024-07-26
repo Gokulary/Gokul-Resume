@@ -86,10 +86,11 @@
 </head>
 <body>
     <header>
+        <img src="Emp-277.jpg" alt="Profile Image">
         <div class="container">
             <div id="branding">
                <h1>Gokul Arya </h1>
-                <p>Assistant Manager in IT</p><img src="Emp-277.jpg" alt="Profile Image">
+                <p>Assistant Manager in IT</p>
                  </div>
             <nav>
                 <ul>
