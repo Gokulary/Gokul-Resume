@@ -15,8 +15,6 @@
             width: 80%;
             margin: auto;
             overflow: hidden;
-        } 
-       
         }
         header {
             background: #35424a;
@@ -25,8 +23,7 @@
             min-height: 70px;
             border-bottom: #e8491d 3px solid;
         }
-           
-        header a {
+            header a {
             color: #ffffff;
             text-decoration: none;
             text-transform: uppercase;
