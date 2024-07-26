@@ -86,9 +86,9 @@
 </head>
 <body>
     <header>
-        <img src="Emp-277.jpg" alt="Profile Image">
-        <div class="container">
+      <div class="container">
             <div id="branding">
+            <img src="Emp-277.jpg" alt="Profile Image">
                <h1>Gokul Arya </h1>
                 <p>Assistant Manager in IT</p>
                  </div>
