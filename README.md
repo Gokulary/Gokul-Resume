@@ -21,7 +21,9 @@
             color: #ffffff;
             padding-top: 30px;
             min-height: 70px;
-            border-bottom: #e8491d 3px solid;.top-right-image {
+            border-bottom: #e8491d 3px solid;
+        }
+            .top-right-image {
             position: absolute;
             top: 10px;
             right: 10px;
