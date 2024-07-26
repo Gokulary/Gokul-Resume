@@ -88,7 +88,7 @@
     <header>
         <div class="container">
             <div id="branding">
-               </h1>Gokul Arya  <img src="Emp-277.jpg" alt="Profile Image"> </h1>
+               </h1>Gokul Arya </h1>
                 <p>Assistant Manager in IT</p>
                  </div>
             <nav>
@@ -104,6 +104,7 @@
                 </ul>
             </nav>
         </div>
+         <img src="Emp-277.jpg" alt="Profile Image">
     </header>
 
     <section id="about" class="container">
