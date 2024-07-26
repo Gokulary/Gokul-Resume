@@ -21,7 +21,14 @@
             color: #ffffff;
             padding-top: 30px;
             min-height: 70px;
-            border-bottom: #e8491d 3px solid;
+            border-bottom: #e8491d 3px solid;.top-right-image {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 150px; /* Adjust the size as needed */
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         }
         header a {
             color: #ffffff;
@@ -74,16 +81,8 @@
             border-bottom: 2px solid #e8491d;
             padding-bottom: 10px;
             }
-            .top-right-image {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            width: 150px; /* Adjust the size as needed */
-            height: auto;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-        }
-    </style>
+          
+</style>
 </head>
 <body>
     <header>
