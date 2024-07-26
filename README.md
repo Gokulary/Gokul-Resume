@@ -93,8 +93,8 @@
             <div id="branding">
                 <h1>Gokul Arya</h1>
                 <p>Assistant Manager in IT</p>
-                <img src="Emp-277.jpg" alt="Gokul Arya" class="top-right-image">
-            </div>
+                 </div>
+            <img src="Emp-277.jpg" alt="Gokul Arya" class="top-right-image">
             <nav>
                 <ul>
                     <li><a href="#about">About Me</a></li>
