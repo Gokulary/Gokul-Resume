@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gokul Lal - Assistant Manager in IT in United Telelink Neolync Pvt.LTD</title>
+    <title>Gokul Lal - Assistant Manager in IT in United Telelink Neolync Pvt.LTD</title>  <img src="Emp-277.jpg" alt="Profile Image">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -88,8 +88,7 @@
     <header>
         <div class="container">
             <div id="branding">
-                 <img src="Emp-277.jpg" alt="Profile Image">
-                <h1>Gokul Arya</h1>
+               <h1>Gokul Arya</h1>
                 <p>Assistant Manager in IT</p>
                  </div>
             <nav>
