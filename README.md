@@ -27,7 +27,7 @@
             position: absolute;
             top: 10px;
             right: 10px;
-            width: 150px; /* Adjust the size as needed */
+            width: 100px; /* Adjust the size as needed */
             height: auto;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
@@ -55,8 +55,7 @@
         header nav {
             float: right;
             margin-top: 10px;
-    
-        }
+    }
         section {
             padding: 20px;
         }
