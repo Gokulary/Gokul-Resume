@@ -76,15 +76,6 @@
             border-bottom: 2px solid #e8491d;
             padding-bottom: 10px;
             }
-          .top-right-image {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            width: 100px; /* Adjust the size as needed */
-            height: auto;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-            }
 </style>
 </head>
 <body>
@@ -94,7 +85,6 @@
                 <h1>Gokul Arya</h1>
                 <p>Assistant Manager in IT</p>
                  </div>
-            <img src="Emp-277.jpg" alt="Gokul Arya" class="top-right-image">
             <nav>
                 <ul>
                     <li><a href="#about">About Me</a></li>
