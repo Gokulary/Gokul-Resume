@@ -19,7 +19,7 @@
         header {
             background: #35424a;
             color: #ffffff;
-            padding-top: 30px;
+            padding-top: 20px;
             min-height: 70px;
             border-bottom: #e8491d 3px solid;
         }
