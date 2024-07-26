@@ -46,7 +46,7 @@
         header nav {
             float: right;
             margin-top: 10px;
-            <img src="path/to/your/image.jpg" alt="Gokul Arya" class="top-right-image">
+            <img src="Emp-277.jpg" alt="Gokul Arya" class="top-right-image">
         }
         section {
             padding: 20px;
