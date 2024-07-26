@@ -88,7 +88,7 @@
     <header>
         <div class="container">
             <div id="branding">
-                 <img src="path/to/your/image.jpg" alt="Profile Image">
+                 <img src="Emp-277.jpg" alt="Profile Image">
                 <h1>Gokul Arya</h1>
                 <p>Assistant Manager in IT</p>
                  </div>
