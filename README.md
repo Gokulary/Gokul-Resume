@@ -46,7 +46,7 @@
         header nav {
             float: right;
             margin-top: 10px;
-            <img src="Emp-277.jpg" alt="Gokul Arya" class="top-right-image">
+    
         }
         section {
             padding: 20px;
@@ -66,7 +66,18 @@
             color: #ffffff;
             text-align: center;
             padding: 30px 0;
-            margin-top: 30px;
+            margin-top: 30px;h2 {
+            border-bottom: 2px solid #e8491d;
+            padding-bottom: 10px;
+        }
+        .top-right-image {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            width: 150px; /* Adjust the size as needed */
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         }
         h2 {
             border-bottom: 2px solid #e8491d;
@@ -95,7 +106,7 @@
             </nav>
         </div>
     </header>
-
+<img src="path/to/your/image.jpg" alt="Gokul Arya" class="top-right-image">
     <section id="about" class="container">
         <h2>About Me</h2>
         <p>Over 11.10 years of experience in Electronics Manufacturing & Assembly with expertise in MES-IT, production management, people management, and resource utilization. Skilled in improving production efficiency, maintaining quality standards, and achieving organizational goals.</p>
