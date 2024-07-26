@@ -106,7 +106,7 @@
             </nav>
         </div>
     </header>
-<img src="path/to/your/image.jpg" alt="Gokul Arya" class="top-right-image">
+<img src="Emp-277.jpg" alt="Gokul Arya" class="top-right-image">
     <section id="about" class="container">
         <h2>About Me</h2>
         <p>Over 11.10 years of experience in Electronics Manufacturing & Assembly with expertise in MES-IT, production management, people management, and resource utilization. Skilled in improving production efficiency, maintaining quality standards, and achieving organizational goals.</p>
