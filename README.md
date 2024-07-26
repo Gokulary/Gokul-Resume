@@ -105,7 +105,7 @@
                 </ul>
             </nav>
             <!-- Add your image here -->
-            <img src="path/to/your/image.jpg" alt="Profile Image">
+            <img src="Emp-277.jpg" alt="Profile Image">
         </div>
     </header>
 
