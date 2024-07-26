@@ -15,15 +15,8 @@
             width: 80%;
             margin: auto;
             overflow: hidden;
-        }
-        header {
-            background: #35424a;
-            color: #ffffff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #e8491d 3px solid;
-        }
-            .top-right-image {
+        } 
+        .top-right-image {
             position: absolute;
             top: 10px;
             right: 10px;
@@ -32,6 +25,14 @@
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0,0,0,0.2);
         }
+        header {
+            background: #35424a;
+            color: #ffffff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+        }
+           
         header a {
             color: #ffffff;
             text-decoration: none;
